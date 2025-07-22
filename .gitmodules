@@ -1,0 +1,6 @@
+[submodule "mfe-study-root"]
+	path = mfe-study-root
+	url = https://github.com/erickWillyan-Baymetrics/mfe-study-root.git
+[submodule "mfe-study-landingPage"]
+	path = mfe-study-landingPage
+	url = https://github.com/erickWillyan-Baymetrics/mfe-study-landingPage.git
